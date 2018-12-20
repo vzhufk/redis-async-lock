@@ -1,0 +1,13 @@
+{
+  "name": "redis-async-lock",
+  "version": "1.0.0",
+  "description": "Sync your async-locks by Redis.",
+  "main": "index.js",
+  "author": "vzhufk",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "saved": "^0.0.6",
+    "uuid": "^3.3.2"
+  }
+}
